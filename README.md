@@ -6,14 +6,14 @@
 
 ## <div>Tech Stack</div>
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=py,js,react,postgresql,git,linux" />
 <!-- selanjutnya bisa belajar ts,docker,deployment,nextjs,aws,tailwind -->
 </div>
 
 ## <div>Let's Connect</div>
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
