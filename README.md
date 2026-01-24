@@ -4,14 +4,14 @@
 
 </div>
 
-## <div>Tech Stack</div>
+## <div>Tech Stack : </div>
 
 <div>
   <img src="https://skillicons.dev/icons?i=py,js,react,postgresql,git,linux" />
 <!-- selanjutnya bisa belajar ts,docker,deployment,nextjs,aws,tailwind -->
 </div>
 
-## <div>Let's Connect</div>
+## <div>Let's Connect!</div>
 
 <div>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
@@ -22,7 +22,7 @@
   </a>
 </div>
 
-## <div>GitHub Contributions</div>
+## <div>GitHub Contributions : </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph-dark.svg">
