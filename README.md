@@ -7,7 +7,7 @@
 ## <div>Tech Stack : </div>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=py,js,react,postgresql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,postgresql,git" />
 <!-- selanjutnya bisa mulai belajar ts,docker,deployment,nextjs,aws,tailwind -->
 </div>
 
