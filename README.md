@@ -8,7 +8,7 @@
 
 <div>
   <img src="https://skillicons.dev/icons?i=py,js,react,postgresql,git" />
-<!-- selanjutnya bisa mulai belajar ts,docker,deployment,nextjs,aws,tailwind -->
+<!-- selanjutnya bisa mulai belajar ts,docker,deployment,nextjs,aws,tailwind dan lainlain -->
 </div>
 
 ## <div>Let's Connect!</div>
