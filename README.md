@@ -7,8 +7,8 @@
 ## <div>Tech Stack : </div>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=py,numpy,matlab,pandas,js,react,postgresql,git,laravel,ts,docker,nodejs,expressjs,nextjs,aws,tailwind" />
-<!-- selanjutnya bisa mulai belajar laravel,ts,docker,nodejs,expressjs,nextjs,aws,tailwind,deployment dan lainlain -->
+  <img src="https://skillicons.dev/icons?i=py,js,react,postgresql,git" />
+<!-- selanjutnya bisa mulai belajar py,js,react,postgresql,git,laravel,ts,docker,nodejs,expressjs,nextjs,aws,tailwind,deployment dan lainlain -->
 </div>
 
 ## <div>Let's Connect!</div>
