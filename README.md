@@ -14,10 +14,10 @@
 ## <div>Let's Connect!</div>
 
 <div>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/zamzami-ahmad-786605340/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/zamzami.ahmd/" target="_blank">
+  <a href="https://www.instagram.com/4hmadzamm.3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
   </a>
 </div>
