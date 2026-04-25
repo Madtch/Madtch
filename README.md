@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Zamzami Ahmad 👋
-
-## Ngoding aja dulu, jagonya belakangan.
+# Ngoding aja dulu, jagonya belakangan.
 
 </div>
 
 ---
 
-## Tech Stack
+## Languages & Tools
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,bootstrap,tailwind,git,python" />
