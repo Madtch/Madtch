@@ -2,7 +2,7 @@
 
 # Hi there, I'm Zamzami Ahmad 👋
 
-### *"Ngoding aja dulu, jagonya belakangan."*
+## Ngoding aja dulu, jagonya belakangan.
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Tech Stack
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,bootstrap,tailwind,git,python" />
 </div>
 
@@ -18,7 +18,7 @@
 
 ## Connect with Me
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/zamzami-ahmad-786605340/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
@@ -31,7 +31,7 @@
 
 ## Contributions
 
-<div align="center">
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph.svg">
