@@ -1,31 +1,40 @@
 <div align="center">
 
-# Ngoding aja dulu, jagonya belakangan.
+# Hi there, I'm Zamzami Ahmad 👋
+
+### *"Ngoding aja dulu, jagonya belakangan."*
 
 </div>
 
-## <div>Tech Stack : </div>
+---
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,mysql,bootstrap,tailwind,git,py" />
-<!-- selanjutnya bisa mulai belajar py,js,react,postgresql,git,laravel,ts,docker,nodejs,expressjs,nextjs,aws,deployment dan lainlain -->
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,bootstrap,tailwind,git,python" />
 </div>
 
-## <div>Let's Connect!</div>
+---
 
-<div>
+## Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/zamzami-ahmad-786605340/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
   <a href="https://www.instagram.com/4hmadzamm.3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 </div>
 
-## <div>GitHub Contributions : </div>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph.svg">
-  <img alt="GitHub contributions graph" src="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph.svg">
-</picture>
+## Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph.svg">
+    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
