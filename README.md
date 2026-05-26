@@ -9,7 +9,7 @@
 ## Languages & Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,bootstrap,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,bootstrap,tailwind,git" />
 </div>
 
 ---
