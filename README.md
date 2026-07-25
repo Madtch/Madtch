@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br>
   <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -40,9 +39,6 @@
   <a href="mailto:zamzamiahmd2112@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <br><br>
-  
   <!-- Social & Creator -->
   <a href="https://www.threads.com/@zamzamiahmad._" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
@@ -53,14 +49,10 @@
   <a href="https://www.tiktok.com/@zamzamiahmad_" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-
-  <br><br>
-
   <!-- Support / Donation -->
   <a href="https://saweria.co/ahmadzamzami" target="_blank">
     <img src="https://img.shields.io/badge/Support_via_Saweria-FAAE1C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-
 </div>
 
 ---
