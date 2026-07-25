@@ -1,16 +1,20 @@
 <div align="center">
 
+<!-- Header Banner Graphic -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:06B6D4&height=200&section=header&text=Zamzami%20Ahmad&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkle" width="100%" />
+
 <!-- Banner Typing Effect -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Hi!+I+am+Zamzami+Ahmad;Frontend+Developer;Informatics+Engineering+Student;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Hi!+I+am+Zamzami+Ahmad!;Frontend+Developer;Informatics+Engineering+Student;" alt="Typing SVG" />
 </a>
+
 </div>
 
 ---
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
-<p>
+<p align="center">
   <!-- Education & Role -->
   <img src="https://img.shields.io/badge/Informatics_Student-007ACC?style=for-the-badge&logo=google-academic&logoColor=white" />
   <br><br>
@@ -28,12 +32,13 @@
 
 ---
 
-## Connect with Me
+## 📬 Connect with Me
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/zamzami-ahmad/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/zamzamiahmad._/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
@@ -41,12 +46,15 @@
 
 ---
 
-## Contributions
+## 👾 Contributions
 
-<div>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph.svg">
     <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Madtch/Madtch/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+<!-- Footer Wave Render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2E86AB&height=120&section=footer" width="100%" />
