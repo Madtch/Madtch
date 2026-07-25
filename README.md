@@ -4,16 +4,13 @@
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Hi!+I+am+Zamzami+Ahmad;Frontend+Developer;Informatics+Engineering+Student;" alt="Typing SVG" />
 </a>
-
-## Ngoding aja dulu, jagonya belakangan.
-
 </div>
 
 ---
 
 ## Languages & Tools
 
-<p align="center">
+<p>
   <!-- Education & Role -->
   <img src="https://img.shields.io/badge/Informatics_Student-007ACC?style=for-the-badge&logo=google-academic&logoColor=white" />
   <br><br>
