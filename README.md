@@ -15,9 +15,6 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <!-- Education & Role -->
-  <img src="https://img.shields.io/badge/Informatics_Student-007ACC?style=for-the-badge&logo=google-academic&logoColor=white" />
-  <br><br>
   <!-- Languages & Styling -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,16 +29,38 @@
 
 ---
 
-## 📬 Connect with Me
-
 <div align="center">
+  <!-- Professional / Primary -->
   <a href="https://www.linkedin.com/in/zamzami-ahmad/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  <a href="https://lynk.id/zamzamiahmad" target="_blank">
+    <img src="https://img.shields.io/badge/Lynk.id-22C55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="mailto:zamzamiahmd2112@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Social & Creator -->
+  <a href="https://www.threads.com/@zamzamiahmad._" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/zamzamiahmad._/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.tiktok.com/@zamzamiahmad_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <!-- Support / Donation -->
+  <a href="https://saweria.co/ahmadzamzami" target="_blank">
+    <img src="https://img.shields.io/badge/Support_via_Saweria-FAAE1C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+
 </div>
 
 ---
