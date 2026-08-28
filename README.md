@@ -22,41 +22,35 @@ Frontend Developer and Informatics Engineering student at **Universitas Battuta*
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Languages & Core -->
-  <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> -->
+  <b>Languages</b><br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-  <!-- Frameworks, Styling & UI Trends -->
-  <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<p align="center">
+  <b>Frameworks & Libraries</b><br />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinia-FFE56D?style=for-the-badge&logo=vue.js&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/Neobrutalism_UI-FF6B6B?style=for-the-badge&logo=design&logoColor=white" /> -->
+</p>
 
-  <!-- Build Tools, Ecosystem & Concepts -->
-  <!-- <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> -->
+<p align="center">
+  <b>Database & Backend Integration</b><br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Tools & Ecosystem</b><br />
   <img src="https://img.shields.io/badge/OpenCode_CLI-4A5568?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-0055E6?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/AntiGravity-0F172A?style=for-the-badge&logo=rocket&logoColor=white" />
-
-  <!-- AI Tools & Powerups -->
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 ---
