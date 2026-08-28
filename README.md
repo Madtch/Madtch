@@ -27,6 +27,14 @@
 
 ## 👨‍💻 About Me
 
+```bash
+  _   _      _ _       _ 
+ | | | | ___| | | ___ | |
+ | |_| |/ _ \ | |/ _ \| |
+ |  _  |  __/ | | (_) |_|
+ |_| |_|\___|_|_|\___/(_)
+```
+
 - 🔭 **Focus**: Frontend Web Development & UI/UX Aesthetics
 - 🎓 **Education**: Informatics Engineering Student
 - ⚡ **Interests**: Building interactive UI, Opencode CLI, Open Source, and AI-assisted workflows
@@ -62,15 +70,6 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madtch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madtch&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
 
 ---
 
