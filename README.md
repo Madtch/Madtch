@@ -57,6 +57,9 @@ Frontend Developer and Informatics Engineering student at **Universitas Battuta*
 
 <div align="center">
   <!-- Professional / Primary -->
+  <a href="https://madtchdev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/zamzami-ahmad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
