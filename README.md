@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner Graphic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:06B6D4&height=200&section=header&text=Zamzami%20Ahmad&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkle" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:06B6D4&height=200&section=header&text=Zamzami%20Ahmad%20%E2%80%A2%20Frontend%20Engineer&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkle" width="100%" />
 
 <!-- Banner Typing Effect -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Developer;Informatics+Engineering+Student;Crafting+Modern+%26+Responsive+Webs;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Engineering;Vue+3+%7C+React+%7C+TypeScript+%7C+Bun;Optimizing+Developer+Workflows;Building+Modern+%26+Scalable+Webs;" alt="Typing SVG" />
 </a>
 
 </div>
@@ -54,6 +54,8 @@ Frontend Developer and Informatics Engineering student at **Universitas Battuta*
 </p>
 
 ---
+
+## 
 
 <div align="center">
   <!-- Professional / Primary -->
