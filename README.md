@@ -5,7 +5,7 @@
 
 <!-- Banner Typing Effect -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Engineering;Vue+3+%7C+React+%7C+TypeScript+%7C+Bun;Optimizing+Developer+Workflows;Building+Modern+%26+Scalable+Webs;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Engineering;Vue+3+%7C+React+%7C+TypeScript+%7C+Bun;Always+Learning;Building+Modern+%26+Scalable+Webs;" alt="Typing SVG" />
 </a>
 
 </div>
