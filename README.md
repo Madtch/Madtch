@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner Graphic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:06B6D4&height=200&section=header&text=Zamzami%20Ahmad%20%E2%80%A2%20Frontend%20Engineer&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkle" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:06B6D4&height=200&section=header&text=Hey,%20I'm%20Zamzami%20Ahmad%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=twinkle" width="100%" />
 
 <!-- Banner Typing Effect -->
 <a href="https://readme-typing-svg.demolab.com">
@@ -55,10 +55,9 @@ Frontend Developer and Informatics Engineering student at **Universitas Battuta*
 
 ---
 
-## 
+## 🌐 Let's Connect
 
-<div align="center">
-  <!-- Professional / Primary -->
+<p align="center">
   <a href="https://madtchdev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
@@ -68,11 +67,10 @@ Frontend Developer and Informatics Engineering student at **Universitas Battuta*
   <a href="mailto:zamzamiahmd2112@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Social & Creator -->
   <a href="https://www.instagram.com/zamzamiahmad._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
