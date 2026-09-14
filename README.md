@@ -5,7 +5,7 @@
 
 <!-- Banner Typing Effect -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Engineering;Vue+3+%7C+React+%7C+TypeScript+%7C+Bun;Always+Learning;Building+Modern+%26+Scalable+Webs;UI+UX+%26+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Engineering;Vue+3+%7C+Nuxt+4+%7C+React+%7C+TypeScript;Always+Learning;Building+Modern+%26+Scalable+Webs;UI+UX+%26+Design" alt="Typing SVG" />
 </a>
 
 </div>
@@ -33,9 +33,9 @@ Frontend Developer and Informatics Engineering student at **Universitas Battuta*
 <p align="center">
   <b>Frameworks & Libraries</b><br />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinia-FFE56D?style=for-the-badge&logo=vue.js&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 </p>
 
 <p align="center">
@@ -50,7 +50,8 @@ Frontend Developer and Informatics Engineering student at **Universitas Battuta*
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AntiGravity-0F172A?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
