@@ -5,7 +5,7 @@
 
 <!-- Banner Typing Effect -->
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Engineering;Vue+3+%7C+Nuxt+4+%7C+React+%7C+TypeScript;Always+Learning;Building+Modern+%26+Scalable+Webs;UI+UX+%26+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Development;Vue+3+%7C+Nuxt+4+%7C+React+%7C+TypeScript;Web+Development;Building+Modern+%26+Scalable+Webs;UI/UX+%26+Implementation" alt="Typing SVG" />
 </a>
 
 </div>
@@ -65,10 +65,7 @@ Frontend Developer and Informatics Engineering student at **Universitas Battuta*
   <a href="https://www.linkedin.com/in/zamzami-ahmad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:zamzamiahmd2112@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/zamzamiahmad._/" target="_blank">
+  <a href="https://www.instagram.com/ahmadtch.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
