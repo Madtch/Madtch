@@ -5,7 +5,7 @@
 
 <!-- Banner Typing Effect -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Developer;Informatics+Engineering+Student;Vue.js+%7C+React+%7C+TypeScript;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86AB&center=true&vcenter=true&width=600&lines=Frontend+Developer;Informatics+Engineering+Student;Vue.js+%7C+Nuxt+%7C+TypeScript;" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,7 +18,7 @@ Frontend Developer and Informatics Engineering student at Universitas Battuta.
 
 - **Role**: Software Engineer (Frontend) at PT Taru Digital Kreatif
 - **Education**: Informatics Engineering, Universitas Battuta
-- **Main Stack**: Vue 3, Nuxt, React, TypeScript, Tailwind CSS, Bun
+- **Main Stack**: Vue 3, Nuxt, TypeScript, Tailwind CSS, Bun
 
 ---
 
