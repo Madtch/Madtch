@@ -54,15 +54,6 @@ Frontend Developer and Informatics Engineering student at Universitas Battuta, f
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Madtch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madtch&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
-</div>
-
----
-
 ## Connect
 
 <p align="center">
