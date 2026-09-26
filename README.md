@@ -14,11 +14,12 @@
 
 ## About Me
 
-Frontend Developer and Informatics Engineering student at Universitas Battuta.
+Frontend Developer and Informatics Engineering student at Universitas Battuta, focused on building responsive web interfaces and integrating RESTful APIs.
 
 - **Role**: Software Engineer (Frontend) at PT Taru Digital Kreatif
 - **Education**: Informatics Engineering, Universitas Battuta
 - **Main Stack**: Vue 3, Nuxt, TypeScript, Tailwind CSS, Bun
+- **Focus**: UI Development, Component Architecture, and Web Performance
 
 ---
 
@@ -50,6 +51,15 @@ Frontend Developer and Informatics Engineering student at Universitas Battuta.
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Madtch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madtch&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+</div>
 
 ---
 
