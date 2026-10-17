@@ -14,12 +14,15 @@
 
 ## About Me
 
-Frontend Developer and Informatics Engineering student at Universitas Battuta, focused on building responsive web interfaces and integrating RESTful APIs.
+```bash
+> initializing profile.sh ...
 
-- **Role**: Software Engineer (Frontend) at PT Taru Digital Kreatif
-- **Education**: Informatics Engineering, Universitas Battuta
-- **Main Stack**: Vue 3, Nuxt, TypeScript, Tailwind CSS, Bun
-- **Focus**: UI Development, Component Architecture, and Web Performance
+name:      Zamzami Ahmad
+role:      Software Engineer (Frontend) @ PT Taru Digital Kreatif
+education: Informatics Engineering @ Universitas Battuta
+location:  Medan, Indonesia 🇮🇩
+focus:     Building scalable Web Apps, Applied AI Integration & IoT Systems
+```
 
 ---
 
