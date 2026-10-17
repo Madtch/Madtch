@@ -37,14 +37,14 @@ status:    [Active & Ready to Code]
 
 Languages
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 Frontend Development
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -54,7 +54,7 @@ Frontend Development
 
 Backend & Database
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -63,14 +63,14 @@ Backend & Database
 
 IoT & Embedded Systems
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
 </p>
 
 Development Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -79,7 +79,7 @@ Development Tools
 
 Exploring
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Applied_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Applied AI" />
   <img src="https://img.shields.io/badge/IoT_Projects-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="IoT Projects" />
 </p>
