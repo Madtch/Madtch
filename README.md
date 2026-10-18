@@ -38,7 +38,7 @@ focus:      Hardware-Software Integration
             ESP32 + Modern Web Dashboards
             Applied AI & Fullstack Development
 
-target:     Software & IoT Engineering Opportunities in Tokyo
+target:     Software & IoT Engineering Opportunities
 
 status:     [Active, Building IoT Ecosystems & Open to Connect]
 ```
